@@ -1,0 +1,4 @@
+libguestfs source: file-without-copyright-information
+libguestfs source: no-debian-changes
+libguestfs source: source-contains-prebuilt-windows-binary
+libguestfs source: source-is-missing

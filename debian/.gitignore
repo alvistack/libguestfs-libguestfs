@@ -1,0 +1,7 @@
+*.substvars
+*debhelper*
+.debhelper
+autoreconf.*
+files
+libguestfs-dev
+tmp

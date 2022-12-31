@@ -254,7 +254,6 @@ Makefile.in
 /lib/structs-free.c
 /lib/unit-tests
 /lib/uefi.c
-/libguestfs.spec
 /libguestfs-*.tar.gz
 /libtool
 /local*
